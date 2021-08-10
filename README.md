@@ -1,5 +1,5 @@
 # MNIST-GAN
-A simple GAN that produces the 10 MNIST digits. Inspired by the model detailed in the [paper](https://arxiv.org/abs/1511.06434) with the accompanying [code](https://github.com/yihui-he/GAN-MNIST) but hopefully this is much easier to understand + read.
+A simple GAN that produces the 10 MNIST digits. Inspired by the model detailed in this [paper](https://arxiv.org/abs/1511.06434) with the accompanying [code](https://github.com/yihui-he/GAN-MNIST) but hopefully this is much easier to understand + read.
 
 ## Output
 ### Tensorflow output after 20 epochs
